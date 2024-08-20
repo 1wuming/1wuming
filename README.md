@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1wuming&show_icons=true&theme=radical)
 # My Profile
 
 ### Biography
@@ -46,5 +47,7 @@ Main research: small target detection, super-resolution reconstruction, pattern 
 
 ### Google Scholar
 - https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=OAX-N7oAAAAJ
+
+
 
 
