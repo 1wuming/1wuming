@@ -17,7 +17,6 @@ Main research: small target detection, super-resolution reconstruction, pattern 
 ### Research
 ***Journal Article:***
 - [1] M Wu, L Yun, Z Chen, et al. Improved YOLOv5s Small Object Detection Algorithm in UAV View[J], *Computer Engineering and Applications*, 2024, 60(2): 191-199. (EI Compendex, IF 4.093)
-  
 - [2] Wu M, Yun L, Wang Y, et al. Detection algorithm for dense small objects in high altitude image[J]. *Digital Signal Processing*, 2024, 146: 104390. (JCR Q2, IF 2.9)
 - [3] Wu M, Yun L, Xue C, et al. Walnut Recognition Method for UAV Remote Sensing Images[J]. *Agriculture*, 2024, 14(4): 646. (JCR Q1, IF 3.3)
 - [4] Wu M, Yang X, Yun L, et al. A General Image Super-Resolution Reconstruction Technique for Walnut Object Detection Model[J]. *Agriculture*, 2024, 14(8): 1279. (JCR Q1, IF 3.3)
