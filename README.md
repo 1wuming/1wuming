@@ -1,8 +1,8 @@
 # My Profile
 
-![My Photo](photo.jpg)
-
 ### Biography
+<img src="IMG_4326.JPG" alt="My Photo" width="200"/>
+
 Wu Mingjie(吴明杰), Beihai City, Guangxi Province. He is a 2022 master's student currently studying at the School of Information of Yunnan Normal University. He is mainly engaged in the research of computer vision technology and smart agriculture.
 Main research: small target detection, super-resolution reconstruction, pattern recognition, UAV remote sensing technology.
 - Office: Yunnan Normal University, Building 4, 504 Laboratory
