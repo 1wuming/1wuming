@@ -22,6 +22,7 @@ Main research: small target detection, super-resolution reconstruction, pattern 
 - [3] Wu M, Yun L, Xue C, et al. Walnut Recognition Method for UAV Remote Sensing Images[J]. *Agriculture*, 2024, 14(4): 646. (JCR Q1, IF 3.3)
 - [4] Wu M, Yang X, Yun L, et al. A General Image Super-Resolution Reconstruction Technique for Walnut Object Detection Model[J]. *Agriculture*, 2024, 14(8): 1279. (JCR Q1, IF 3.3)
 - [5] Xue C, Xia Y, Wu M, et al. EL-YOLO: An efficient and lightweight low-altitude aerial objects detector for onboard applications[J]. *Expert Systems with Applications*, 2024: 124848. (JCR Q1, IF 7.5)
+- [6] Yang C, Cai Z, Wu M, et al. Research on Detection Algorithm of Green Walnut in Complex Environment[J]. Agriculture, 2024, 14(9): 1441. (JCR Q1, IF 3.3)
 
 
 ### Scientific and technological achievements
@@ -33,8 +34,9 @@ Main research: small target detection, super-resolution reconstruction, pattern 
 
 
 ### Awards
-- Third Prize of Academic Scholarship for Graduate Freshmen in 2022
-- First Prize for Postgraduate Academic Scholarship 2023
+- Third Prize of Academic Scholarship for Graduate Freshmen(2022)
+- First Prize for Postgraduate Academic Scholarship(2023)
+- National Scholarship for Postgraduates(2024)
 
 ### Contest
 - "GigaDevice Cup" 18th Graduate Electronic Design Competition, Provincial Third Prize, Participant (Fire Detection System Based on Deep Learning) - 2023/7
