@@ -34,9 +34,9 @@ Main research: small target detection, super-resolution reconstruction, pattern 
 
 
 ### Awards
-- Third Prize of Academic Scholarship for Graduate Freshmen - 2022/10;
-- First Prize for Postgraduate Academic Scholarship - 2023/10;
-- National Scholarship for Postgraduates - 2024/10.
+- Third Prize of Academic Scholarship for Graduate Freshmen - 2022/10
+- First Prize for Postgraduate Academic Scholarship - 2023/10
+- National Scholarship for Postgraduates - 2024/10
 
 ### Contest
 - "GigaDevice Cup" 18th Graduate Electronic Design Competition, Provincial Third Prize (*Fire Detection System Based on Deep Learning*) - 2023/7
