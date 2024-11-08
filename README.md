@@ -39,11 +39,11 @@ Main research: small target detection, super-resolution reconstruction, pattern 
 - National Scholarship for Postgraduates - 2024/10.
 
 ### Contest
-- "GigaDevice Cup" 18th Graduate Electronic Design Competition, Provincial Third Prize, Participant (*Fire Detection System Based on Deep Learning*) - 2023/7
-- The 9th "Internet +" College Student Innovation and Entrepreneurship Competition, second prize at the school level, participant (*"Magical "Fungus" Group - Yunnan Wild Mushroom Traceability Leader Helps Rural Revitalization*) - 2023/8
-- The 9th "Internet +" College Student Innovation and Entrepreneurship Competition, First Prize at the College Level, Principal Investigator (*Strawberry Yield Prediction System Based on YOLOv7 Object Detection Technology*) - 2023/8
-- The 9th "Internet+" College Student Innovation and Entrepreneurship Competition, Second Prize at the College Level, Participant (*"Le Tao Relics" - Cultural Protection System Based on Motion Capture Technology*) - 2023/8
-- The 10th "Internet +" College Student Innovation and Entrepreneurship Competition, Third Prize at the University Level, Principal Investigator (*UAV Fire Inspection System Based on Computer Vision*) - 2024/4
+- "GigaDevice Cup" 18th Graduate Electronic Design Competition, Provincial Third Prize (*Fire Detection System Based on Deep Learning*) - 2023/7
+- The 9th "Internet +" College Student Innovation and Entrepreneurship Competition, second prize at the school level (*"Magical "Fungus" Group - Yunnan Wild Mushroom Traceability Leader Helps Rural Revitalization*) - 2023/8
+- The 9th "Internet +" College Student Innovation and Entrepreneurship Competition, First Prize at the College Level (*Strawberry Yield Prediction System Based on YOLOv7 Object Detection Technology*) - 2023/8
+- The 9th "Internet+" College Student Innovation and Entrepreneurship Competition, Second Prize at the College Level (*"Le Tao Relics" - Cultural Protection System Based on Motion Capture Technology*) - 2023/8
+- The 10th "Internet +" College Student Innovation and Entrepreneurship Competition, Third Prize at the University Level (*UAV Fire Inspection System Based on Computer Vision*) - 2024/4
 
 
 
